@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25daa34a-1488-4eaf-b6fb-de021291af5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2xAtin67YKyPpFUu4XhFCeSCGQq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdminFrame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataUpdater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateAdminPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginFrame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SocketServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserFrame.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/food-website-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/DACS1/MovieTicketBooking/src/main/java/com/movie/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27329844&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.movie.ui.LoginFrame" />
+      <module name="MovieTicketBooking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movie.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.movie.Main" />
+      <module name="MovieTicketBooking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LoginFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25daa34a-1488-4eaf-b6fb-de021291af5c" name="Changes" comment="" />
+      <created>1747392837250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747392837250</updated>
+      <workItem from="1747392838269" duration="1701000" />
+      <workItem from="1747394600877" duration="129000" />
+      <workItem from="1747395489141" duration="110000" />
+      <workItem from="1747399121481" duration="5863000" />
+      <workItem from="1747410504367" duration="1578000" />
+      <workItem from="1747448752247" duration="38000" />
+      <workItem from="1747467708558" duration="6273000" />
+      <workItem from="1747474063963" duration="13000" />
+      <workItem from="1747477279713" duration="10861000" />
+      <workItem from="1747488803172" duration="125000" />
+      <workItem from="1747490676364" duration="5644000" />
+      <workItem from="1747496686711" duration="1055000" />
+      <workItem from="1747498678972" duration="375000" />
+      <workItem from="1747528776380" duration="7338000" />
+      <workItem from="1747537359625" duration="736000" />
+      <workItem from="1747554695298" duration="4037000" />
+      <workItem from="1747559676694" duration="463000" />
+      <workItem from="1747562839074" duration="578000" />
+      <workItem from="1747564447653" duration="155000" />
+      <workItem from="1747566901381" duration="2472000" />
+      <workItem from="1747571987505" duration="984000" />
+      <workItem from="1747573174774" duration="284000" />
+      <workItem from="1747573716092" duration="71000" />
+      <workItem from="1747573843410" duration="134000" />
+      <workItem from="1747574452241" duration="6827000" />
+      <workItem from="1747581644396" duration="10000" />
+      <workItem from="1747583260990" duration="84000" />
+      <workItem from="1747615342146" duration="319000" />
+      <workItem from="1747615829845" duration="5366000" />
+      <workItem from="1747626014511" duration="1363000" />
+      <workItem from="1747639319956" duration="3486000" />
+      <workItem from="1747645037015" duration="3586000" />
+      <workItem from="1747652748004" duration="740000" />
+      <workItem from="1747654388706" duration="5307000" />
+      <workItem from="1747660197990" duration="1462000" />
+      <workItem from="1747661950643" duration="672000" />
+      <workItem from="1747664706149" duration="2398000" />
+      <workItem from="1747667740759" duration="3448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
